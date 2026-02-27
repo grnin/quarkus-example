@@ -1,9 +1,6 @@
   {
     "build": {
         "type": "maven",
-        "goal": "quarkus"
-    },
-    "deploy": {
-        "jarName": "target/quarkus-example-1.0.0-SNAPSHOT.jar"
+        "goal": "quarkus-example"
     }
   }
