@@ -7,6 +7,14 @@
       "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_26b9e9a3-d544-4bf9-b60a-5d23eff0acb0.git",
       "name": "quarkus-example",
       "alias": "quarkus-example"
+    },
+    {
+      "app_id": "app_c11b01e9-9b48-45d4-a924-89071f84da72",
+      "org_id": "user_96b82531-e0ef-441f-8e0e-9bcb2641a680",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c11b01e9-9b48-45d4-a924-89071f84da72.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_c11b01e9-9b48-45d4-a924-89071f84da72.git",
+      "name": "quarkus",
+      "alias": "quarkus"
     }
   ]
 }
