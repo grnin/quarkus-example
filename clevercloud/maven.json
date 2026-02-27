@@ -1,6 +1,6 @@
   {
     "build": {
         "type": "maven",
-        "goal": "quarkus-example:deploy"
+        "goal": "package -DskipTests"
     }
   }
