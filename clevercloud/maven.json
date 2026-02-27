@@ -1,9 +1,9 @@
   {
     "build": {
         "type": "maven",
-        "goal": "-Pprod package quarkus-bom"
+        "goal": "quarkus-example"
     },
     "deploy": {
-        "jarName:": "target/quarkus-example-1.0.0-SNAPSHOT.jar"
+        "jarName": "target/quarkus-example-1.0.0-SNAPSHOT.jar"
     }
   }
